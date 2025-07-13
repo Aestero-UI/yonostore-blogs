@@ -4,7 +4,7 @@ slug: "yono-rummy"
 date: "2025-07-13"
 tags: ["rummy", "card game", "online games", "yono"]
 description: "An in-depth breakdown of Yono Rummy — India's beloved card game, reimagined for mobile."
-coverImage: "https://raw.githubusercontent.com/Aestero-UI/yonostore-blogs/main/images/rummy.png"
+coverImage: "/images/567 slot.jpeg"
 ---
 
 **Yono Rummy** stands out as a modern interpretation of one of India's most loved card games — Rummy. If you've ever enjoyed the challenge of drawing, discarding, and forming valid sets or sequences, this digital version brings that classic experience right to your device, with a smooth and responsive interface.
