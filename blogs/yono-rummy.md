@@ -1,7 +1,7 @@
 ---
 title: "A Closer Look at Yono Rummy: Classic Game with a Modern Interface"
 slug: "yono-rummy"
-date: "2025-07-13"
+date: "2025-07-10"
 tags: ["rummy", "card game", "online games", "yono"]
 description: "An in-depth breakdown of Yono Rummy — India's beloved card game, reimagined for mobile."
 coverImage: "/blog-images/rummy.jpg"
