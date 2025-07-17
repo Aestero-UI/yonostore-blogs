@@ -1,7 +1,7 @@
 ---
 title: "How to Spot Fake Game Apps – A Complete Guide for Safe Mobile Gaming"
 slug: "spot-fake-game-apps"
-date: "2025-07-13"
+date: "2025-07-12"
 tags: ["mobile games", "fake apps", "security", "android safety", "yono store"]
 description: "Learn how to identify fake or scammy mobile game apps before you download them. This guide helps you avoid privacy risks, ad traps, and fake reviews."
 coverImage: "/blog-images/fake-app.jpg"
