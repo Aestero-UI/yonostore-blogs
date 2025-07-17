@@ -1,7 +1,7 @@
 ---
 title: "Top Trusted Game Apps in India [2025 Edition] – Verified by Yono Store"
 slug: "trusted-game-apps-india-2025"
-date: "2025-07-13"
+date: "2025-07-11"
 tags: ["mobile games", "rummy", "teen patti", "card games", "yono store", "trusted apps"]
 description: "A detailed guide to the most reliable and skill-based game apps in India, handpicked and verified by Yono Store for performance, fairness, and user privacy."
 coverImage: "/blog-images/trusted-app.jpg"
