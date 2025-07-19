@@ -1,7 +1,7 @@
 ---
 title: "YONO 777 Pro Guide: Master Gameplay, Strategy & Wins in 2025"
 slug: yono-777-pro-guide
-date: 2025-07-19
+date: "2025-07-19"
 tags: [Yono 777, strategy, mobile gaming 2025, game guide, Yono Store, All Yono Store]
 description: "Level up your skills in YONO 777 with our expert guide to mastering spins, strategy, and smart gameplay in 2025. Learn how to win confidently and play safely."
 coverImage: "/blog-images/yono-777-guide.jpg"
