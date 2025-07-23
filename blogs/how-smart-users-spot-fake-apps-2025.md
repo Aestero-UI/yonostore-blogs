@@ -193,5 +193,4 @@ So choose wisely. Trust only the apps that **earn** your trust — like the ones
 
 Be smart. Be safe. And never fall for a fake app again.
 
----
 
