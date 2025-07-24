@@ -9,7 +9,7 @@ coverImage: "/blog-images/app-checker.jpg"
 
 With thousands of new apps released every month, the digital space is getting flooded — especially with **gaming apps that look flashy but aren't always trustworthy**. For casual players and seasoned gamers alike, one wrong download can mean spam, bugs, or worse: privacy invasion.
 
-That’s why **Yono Store** has built something simple, fast, and secure — the **[Yono App Checker](https://yonostore.vercel.app/app-checker)** — to help users **verify apps before downloading them**.
+That’s why **[yono store](https://yonostore.vercel.app/)** has built something simple, fast, and secure — the **[Yono App Checker](https://yonostore.vercel.app/app-checker)** — to help users **verify apps before downloading them**.
 
 This blog dives into **why this tool matters**, how it works, and why it’s an essential utility for smart players in 2025.
 
