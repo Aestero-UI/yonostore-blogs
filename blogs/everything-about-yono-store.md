@@ -21,7 +21,7 @@ Let’s dive right in.
 
 ## 1. What Is Yono Store?
 
-At its core, [**Yono Store**](https://yonostore.vercel.app/) is a **one-stop destination for safe and trending mobile games**, mainly focused on India’s favorite card and slot titles. But it’s more than just a list of games. It’s a trusted platform where each game is:
+At its core, **[Yono Store](https://yonostore.vercel.app/)** is a **one-stop destination for safe and trending mobile games**, mainly focused on India’s favorite card and slot titles. But it’s more than just a list of games. It’s a trusted platform where each game is:
 
 - Verified for safety  
 - Reviewed for performance  
@@ -34,7 +34,7 @@ Whether you're new to games like Rummy or looking for reliable apps without shad
 
 ## 2. Explore the Main Page: Where It All Begins
 
-When you first land on [Yono Store's homepage](https://yonostore.vercel.app/), you're greeted with a **clean, mobile-first interface** that loads quickly and shows you exactly what you need—without ads, popups, or distractions.
+When you first land on **[Yono Store's homepage](https://yonostore.vercel.app/)**, you're greeted with a **clean, mobile-first interface** that loads quickly and shows you exactly what you need—without ads, popups, or distractions.
 
 You can:
 
@@ -49,7 +49,7 @@ Every game listed is pre-verified, meaning **you don’t have to second-guess th
 
 ## 3. App Checker Tool: Protect Yourself From Fake Game Apps
 
-One of Yono Store’s most underrated but powerful features is its **App Checker Tool**. Found here: [**Yono Store App Checker**](https://yonostore.vercel.app/app-checker)
+One of Yono Store’s most underrated but powerful features is its **App Checker Tool**. Found here: **[Yono Store App Checker](https://yonostore.vercel.app/app-checker)**
 
 ### What does it do?
 
@@ -71,7 +71,7 @@ Thousands of users accidentally download fake versions of card and slot games ev
 
 Let’s be honest—**tutorials and screenshots aren’t enough anymore**. You need real, visual, in-motion gameplay to understand how these games work.
 
-That’s why Yono Store launched its brand-new [**Video Hub**](https://yonostore.vercel.app/video)—a collection of handpicked gameplay videos, walkthroughs, and strategy breakdowns.
+That’s why Yono Store launched its brand-new **[Video Hub](https://yonostore.vercel.app/video)**—a collection of handpicked gameplay videos, walkthroughs, and strategy breakdowns.
 
 ### What you can watch:
 
@@ -107,7 +107,7 @@ If you’ve ever searched “how to play Rummy smartly” or “tips to win card
 
 ## 6. New Game Highlight: Hi Rummy
 
-We’re excited to talk about the latest addition to the Yono Store catalog: [**Hi Rummy**](https://yonostore.vercel.app/hi-rummy)
+We’re excited to talk about the latest addition to the Yono Store catalog: **[Hi Rummy](https://yonostore.vercel.app/hi-rummy)**
 
 This game is a **modern, fast-loading take on classic Indian Rummy**, built for mobile players who value smooth performance, intuitive controls, and clean design.
 
@@ -176,7 +176,7 @@ There are thousands of gaming platforms online—but almost none bring together 
 - A powerful tool to **verify app safety**  
 - A growing **Video Hub** to watch & learn  
 - Smart, friendly blogs that go beyond promotion  
-- A fresh lineup of trending games like [Hi Rummy](https://yonostore.vercel.app/hi-rummy)
+- A fresh lineup of trending games like **[Hi Rummy](https://yonostore.vercel.app/hi-rummy)**
 
 It’s not trying to be flashy. It’s trying to be **useful**.
 
