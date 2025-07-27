@@ -104,7 +104,7 @@ Real users will leave feedback about crashes, fake behavior, or aggressive ads. 
 Legitimate games are **regularly updated**. If the last update was months or years ago, or if the changelog is empty, it’s not being maintained.
 
 ### ✅ Search on Independent Platforms
-Use review-focused directories like [Yono Store](https://yonostore.vercel.app/) that handpick and verify real apps. These platforms often include:
+Use review-focused directories like **[Yono Store](https://yonostore.app/)** that handpick and verify real apps. These platforms often include:
 - Clean download links
 - Transparent game summaries
 - Ratings that reflect actual play quality
@@ -173,7 +173,7 @@ If an app is promising daily cash, coins, spins, or Paytm withdrawals without an
 
 Looking for genuine alternatives that don’t invade your privacy or spam you?
 
-Here are a few **trusted categories** on [Yono Store](https://yonostore.vercel.app/):
+Here are a few **trusted categories** on **[Yono Store](https://yonostore.app/)**:
 
 ### 🃏 Rummy
 Simple interface, no ads, traditional 13-card rules
@@ -199,7 +199,7 @@ By following the steps outlined above — and using **verified directories like 
 
 ---
 
-> 🔗 Want a shortcut? Head over to the [Yono Store homepage](https://yonostore.vercel.app/) where every game is hand-checked, clean, and ready to play — with no surprises.
+> 🔗 Want a shortcut? Head over to the **[Yono Store](https://yonostore.app/)** where every game is hand-checked, clean, and ready to play — with no surprises.
 
 ---
 
