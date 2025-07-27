@@ -11,7 +11,7 @@ coverImage: "/blog-images/yono-video-hub.jpg"
 
 If you’ve ever wondered how to tighten up your Rummy strategy or pull off that lucky streak on Slot 101, you’re in the right place. The **Yono Store Video Hub** is our brand‑new page dedicated to real gameplay footage, step‑by‑step tutorials, insider tips, and expert commentary—all in crisp, easy‑to‑follow video format.
 
-👉 Explore now: **[Yono Store Video Hub](https://yonostore.vercel.app/video)** or start at the hub’s homepage: **[Yono Store](https://yonostore.vercel.app/)**
+👉 Explore now: **[Yono Store Video Hub](https://yonostore.app/video)** or start at the hub’s homepage: **[Yono Store](https://yonostore.app/)**
 
 Whether you’re a beginner learning the ropes or a seasoned player chasing new heights, these videos bring the action right to your screen. No more guessing from screenshots or reading long manuals—see exactly how pros play, learn in real time, and start winning smarter.
 
@@ -263,6 +263,6 @@ The fastest way to grow as a card‑game or slot‑game enthusiast is by watchin
 
 Ready to see the action? Head over now and start your Video Hub journey:
 
-➡️ **[Yono Store Video Hub](https://yonostore.vercel.app/video)** or begin at the main site: **[Yono Store](https://yonostore.vercel.app/)**
+➡️ **[Yono Store Video Hub](https://yonostore.app/video)** or begin at the main site: **[Yono Store](https://yonostore.app/)**
 
 Game smarter, play better, and become part of India’s most dynamic mobile‑gaming community. See you in the comments!
