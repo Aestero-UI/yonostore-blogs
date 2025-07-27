@@ -23,7 +23,7 @@ Not every game on Yono Store will suit your skill level or play style.
 
 ### What to Do:
 - **Start with simpler formats** (like classic Rummy or Tap games) before jumping into time-bound or fast-paced variants.
-- Read the description and rules on the [Yono Store platform](https://yonostore.vercel.app/) before downloading.
+- Read the description and rules on the **[Yono Store](https://yonostore.app/)** before downloading.
 - Understand the gameplay loop — is it reactive (tap/swipe) or strategic (match cards, puzzle solving)?
 
 Smart players don’t play everything — they **master one or two titles** and go deep.
@@ -151,7 +151,7 @@ Knowledge is power — even in casual games.
 
 ## 📲 11. Update Your Game Regularly
 
-Most apps listed on [Yono Store](https://yonostore.vercel.app/) release performance and bug-fix updates. An outdated version can:
+Most apps listed on **[Yono Store](https://yonostore.app/)** release performance and bug-fix updates. An outdated version can:
 - Crash mid-game
 - Miss new features
 - Have less optimized matchmaking
@@ -216,7 +216,7 @@ Small optimizations in your strategy can lead to **big improvements** in results
 
 ---
 
-> 🔗 To explore all real-game apps listed on a lightweight and clutter-free platform, head over to the [Yono Store main page](https://yonostore.vercel.app/).  
+> 🔗 To explore all real-game apps listed on a lightweight and clutter-free platform, head over to the **[Yono Store](https://yonostore.vercel.app/)**.  
 It’s where smart players begin their journey.
 
 ---
