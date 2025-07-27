@@ -11,7 +11,7 @@ Built with modern technologies like **Next.js**, **Tailwind CSS**, and **static 
 ## 🚀 Key Features
 
 - ✅ **App Preview Pages** — Clean, minimal pages for games like [Yono 777](https://yonostore.app/yono-777), [Hi Rummy](https://yonostore.app/hi-rummy), etc.
-- 🔍 **App Checker Tool** — Scan & verify apps via local JSON using: [App Checker](https://yonostore.vercel.app/app-checker)
+- 🔍 **App Checker Tool** — Scan & verify apps via local JSON using: [App Checker](https://yonostore.app/app-checker)
 - ⚡ **100/100 PageSpeed Score** — Optimized for speed and mobile responsiveness
 - 📖 **SEO-Optimized Blogs** — Security-focused and human-written blog content (e.g. [Safe Gaming Guide](https://yonostore.app/blog/safest-indian-gaming-apps))
 - 🧠 **Autocomplete Search** — Dynamic, responsive search suggestions across all apps
