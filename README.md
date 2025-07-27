@@ -4,7 +4,7 @@
 
 Built with modern technologies like **Next.js**, **Tailwind CSS**, and **static JSON data**, it features powerful tools like an **App Checker**, curated preview pages, and insightful blog content focused on safety and discovery.
 
-> 🔗 Live Site: [https://yonostore.vercel.app/](https://yonostore.app/)
+> 🔗 Live Site: [Yono Store](https://yonostore.app/)
 
 ---
 
