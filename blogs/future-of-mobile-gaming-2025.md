@@ -11,7 +11,7 @@ coverImage: "/blog-images/future-yono.jpg"
 
 Mobile gaming has come a long way since the early days of Snake and Brick Breaker. In 2025, the Indian gaming ecosystem is experiencing a shift — not just in graphics or genres, but in **player expectations**. Users today are looking beyond flashy visuals. They want games that are **lightweight, safe, skill-driven, and distraction-free**.
 
-This evolution has created space for new platforms like **[Indian Club Yono](https://yonostore.vercel.app/ind-club)** — a space focused not on hype, but **on giving real value to everyday gamers**.
+This evolution has created space for new platforms like **[Ind Club](https://yonostore.app/ind-club)** — a space focused not on hype, but **on giving real value to everyday gamers**.
 
 ---
 
@@ -80,7 +80,7 @@ That’s why **skill-based gaming is dominating**:
 Platforms like **Yono Store** are winning because they **don’t push gimmicks**. They let players focus on the game — not the casino.
 
 Take this example:  
-[Spin Gold](https://yonostore.vercel.app/spin-gold) — a simple, skill-reflex game that rewards timing over chance. No flashy coins. No “spin to win.” Just smooth mechanics.
+**[Spin Gold](https://yonostore.app/spin-gold)** — a simple, skill-reflex game that rewards timing over chance. No flashy coins. No “spin to win.” Just smooth mechanics.
 
 ---
 
@@ -107,25 +107,10 @@ Because players want:
 - **Fast loading, even on older phones**
 - **No login, no OTP, no nonsense**
 
-This is exactly what games like **Yono 777** offer. Check out [Yono 777](https://yonostore.vercel.app/yono-777) — a lightweight game with **tap mechanics that challenge timing and focus**.
+This is exactly what games like Yono 777 offer. Check out **[Yono 777](https://yonostore.app/yono-777)** — a lightweight game with **tap mechanics that challenge timing and focus**.
 
 ---
 
-## 📊 The Data Doesn’t Lie
-
-Here are a few trends from 2025 that highlight the shift:
-
-| Trend | 2020 | 2025 |
-|------|------|------|
-| Avg. Game Size | 150MB | 40MB |
-| Permission Requests | 6–8 | 2–3 |
-| Avg. Session Time | 30 mins | 8–12 mins |
-| Ads per session | 12+ | 3 or less |
-| Skill-based Game Downloads | 18% | 61% |
-
-It’s not about **spending hours** anymore. It’s about **quick, satisfying, meaningful sessions** — and platforms like Indian Club Yono are built for exactly that.
-
----
 
 ## 🌱 Built for Indian Conditions
 
@@ -183,7 +168,7 @@ And through it all, we expect platforms like **Indian Club Yono** to lead — be
 We don’t need more games — we need **better games**.
 
 Whether you’re:
-- Exploring reflex games like [Yono 777](https://yonostore.vercel.app/yono-777),
+- Exploring reflex games like **[Yono 777](https://yonostore.app/yono-777)**,
 - Discovering clean card games on **Indian Club Yono**, or
 - Using tools like the App Checker to avoid scams,
 
@@ -192,7 +177,7 @@ You’re already part of the next wave of mobile gaming in India.
 ---
 
 > 📌 Want to explore the future of gaming without the clutter?  
-Visit the [Indian Club Yono page](https://yonostore.vercel.app/ind-club) and see how real players are choosing clarity over chaos.
+Visit the **[Ind Club](https://yonostore.app/ind-club)** and see how real players are choosing clarity over chaos.
 
 ---
 
