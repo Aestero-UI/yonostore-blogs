@@ -7,7 +7,7 @@ description: "Introducing Yono Store’s Video Hub—your go‑to destination fo
 coverImage: "/blog-images/yono-video-hub.jpg"
 ---
 
-## Welcome to the **[Yono Store](https://yonostore.vercel.app/)** Video Hub
+## Welcome to the **[Yono Store](https://yonostore.app/)** Video Hub
 
 If you’ve ever wondered how to tighten up your Rummy strategy or pull off that lucky streak on Slot 101, you’re in the right place. The **Yono Store Video Hub** is our brand‑new page dedicated to real gameplay footage, step‑by‑step tutorials, insider tips, and expert commentary—all in crisp, easy‑to‑follow video format.
 
