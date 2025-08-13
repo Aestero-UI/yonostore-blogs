@@ -1,7 +1,7 @@
 ---
 title: "Discover Share Slot on Yono Store – Features, Tips, and Strategies"
 slug: "share-slot-yono-store"
-date: "2025-08-10"
+date: "2025-08-11"
 tags: ["share slot", "slot strategy", "yono store", "online slots", "game guide"]
 description: "Want to master Share Slot on Yono Store? This guide covers the game’s features, how to play, smart strategies, and where to watch gameplay videos and verify the app."
 coverImage: "/blog-images/share-slot.jpg"
