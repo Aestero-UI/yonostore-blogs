@@ -9,7 +9,7 @@ coverImage: "/blog-images/trusted-app.jpg"
 
 Finding truly **trusted game apps** in India can feel like searching for a needle in a haystack. With flashy promotions, intrusive ads, and fake reviews dominating app stores, it's difficult for users to know which games are **genuinely worth installing**.
 
-That’s exactly why **Yono Store** has taken the lead in curating a list of reliable, skill-based, and performance-optimized mobile games that Indian users can trust. Whether you're into **card games like Rummy and Teen Patti**, or you prefer casual games that test memory and logic, this 2025 edition showcases the **most verified, transparent, and trusted game apps** on the market today.
+That’s exactly why **[Yono Store](https://yonostore.app/)** has taken the lead in curating a list of reliable, skill-based, and performance-optimized mobile games that Indian users can trust. Whether you're into **card games like Rummy and Teen Patti**, or you prefer casual games that test memory and logic, this 2025 edition showcases the **most verified, transparent, and trusted game apps** on the market today.
 
 So let’s dive into our carefully vetted list — built to help you download smarter, play cleaner, and experience mobile gaming without the noise.
 
