@@ -7,9 +7,9 @@ description: "A deep dive into why Yono Store stands out as a secure, user-frien
 coverImage: "/blog-images/trusted-platform.jpg"
 ---
 
-In a world where mobile gaming has become an integral part of our downtime, it's rare to find platforms that focus on **skill over chance**, and **clarity over clutter**. That’s where **Yono Store** comes in — a carefully curated digital space for players looking for **authentic skill-based games**, especially **Rummy**, the timeless Indian card classic.
+In a world where mobile gaming has become an integral part of our downtime, it's rare to find platforms that focus on **skill over chance**, and **clarity over clutter**. That’s where **[Yono Store](https://yonostoreapp/)** comes in — a carefully curated digital space for players looking for **authentic skill-based games**, especially **Rummy**, the timeless Indian card classic.
 
-Yono Store doesn’t bombard you with overwhelming graphics, endless pop-ups, or irrelevant downloads. Instead, it presents users with straightforward, trustworthy listings of skill-based games — led by titles like **Yono Rummy**, which has gained quiet yet significant traction among serious players.
+Yono Store doesn’t bombard you with overwhelming graphics, endless pop-ups, or irrelevant downloads. Instead, it presents users with straightforward, trustworthy listings of skill-based games — led by titles like **[Yono Rummy](https://yonostore.app/yono-rummy)**, which has gained quiet yet significant traction among serious players.
 
 ---
 
